@@ -1,4 +1,4 @@
-```markdown
+
 # ZK SNARK Designer
 
 This project implements a logical gate using the Circom programming language. The goal is to prove knowledge of inputs A (0) and B (1) that yield a 0 output. We achieve this by creating a circuit, compiling it, generating a proof, deploying a Solidity verifier contract to Sepolia, and verifying the proof.
@@ -88,4 +88,3 @@ circom: {
 ## Verify Proof
 
 Call the `verifyProof()` method on the verifier contract and assert the output is true.
-```
