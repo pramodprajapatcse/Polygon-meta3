@@ -57,8 +57,8 @@ npx hardhat help
 
 ## Authors
 
-Dominique Pizzie  
-[@DomPizzie](https://twitter.com/dompizzie)
+Pramod Prajapat 
+[@pramodprajaptcse](https://instagram.com/pramodprajapatcse)
 
 ## License
 
